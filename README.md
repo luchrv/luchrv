@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchrv&label=Profile%20views&color=0e75b6&style=flat" alt="luchrv" /> </p>
 
-- 🔭 I’m currently working on [Freyresoft](http://freyresoft.com/)
+- 🔭 I’m currently working on [Amaris Consulting](https://www.amaris.com/)
 
-- 🌱 I’m currently learning **Vue 3 and Python 3**
+- 🌱 I’m currently learning **React and Python 3**
 
-- 💬 Ask me about **PHP, Golang, Javascript, CSS, Mysql, and MongoDB**
+- 💬 Ask me about **PHP, Golang, Javascript, GCP, Mysql, and MongoDB**
 
 - 📫 How to reach me **luchrv@gmail.com**
 
